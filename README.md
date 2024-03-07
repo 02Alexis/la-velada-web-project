@@ -4,7 +4,8 @@
 
 # Web Oficial de La Velada IV
 
-## <p align="center">Basado en el diseño de MiduDev</p>
+## <p align="center">Basado en el diseño de<a href="https://youtu.be/BVnhDlbhPvs?si=C8PCSGT5yBIjOr0W" target="_blank"> MiduDev</a></p>
+
 ![Logo - La Velada IV](https://img.youtube.com/vi/BVnhDlbhPvs/maxresdefault.jpg)
 
 
