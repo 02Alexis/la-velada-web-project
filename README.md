@@ -29,7 +29,7 @@ La Velada IV es una competición de boxeo que enfrenta a Streamers, Creadores de
    git clone https://github.com/02Alexis/la-velada-web-project.git
    ```
 
-3. Navega hasta el directorio
+2. Navega hasta el directorio
 
    ```sh
    cd la-velada-web-project
